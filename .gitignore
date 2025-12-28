@@ -1,0 +1,66 @@
+# Fraud Detection Dataset - Git Ignore
+# Developer: Molla Samser
+# Designer & Tester: Rima Khatun
+# Website: https://rskworld.in
+# Email: help@rskworld.in, support@rskworld.in, info@rskworld.com
+# Phone: +91 93305 39277
+# Company: RSK World
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.model
+
+# Data files (if not committed)
+# fraud_detection_dataset.csv
+# fraud_detection_dataset.xlsx
+
+# Visualization outputs
+*.png
+*.jpg
+*.pdf
+confusion_matrix.png
+roc_curve.png
+feature_importance.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+

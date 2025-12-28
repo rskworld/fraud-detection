@@ -1,0 +1,21 @@
+# Fraud Detection Dataset - Requirements
+# Developer: Molla Samser
+# Designer & Tester: Rima Khatun
+# Website: https://rskworld.in
+# Email: help@rskworld.in, support@rskworld.in, info@rskworld.com
+# Phone: +91 93305 39277
+# Company: RSK World
+
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+jupyter>=1.0.0
+imbalanced-learn>=0.11.0
+openpyxl>=3.1.0
+xgboost>=2.0.0
+lightgbm>=4.0.0
+shap>=0.43.0
+scipy>=1.11.0
+
